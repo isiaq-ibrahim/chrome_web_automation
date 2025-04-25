@@ -57,6 +57,14 @@ python filename.py
 (Replace filename.py with the name of your Python file.)
 - Watch as multiple tabs open automatically in Chrome!
 
+### 📸 Usage Example
+
+When you run the script, Chrome will automatically open all the websites listed in the URLS variable in new tabs. Here's a preview of how it looks:
+
+The script opens multiple tabs such as StackOverflow, Gmail, YouTube, Outlook, LinkedIn, Udemy, and your GitHub profile — all automatically!
+
+▶️ [Watch Demo Video](https://drive.google.com/file/d/1ZDJ0hCACN7c4kyXr2BKJ1AuRHZ6NQ8zx/view?usp=sharing)
+
 ### ✨ Customization
 
 You can easily customize the script by:
