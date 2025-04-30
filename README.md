@@ -42,19 +42,30 @@ web_auto()
 
 ### 🖥️ Requirements
 
-- Python 3.x installed on your system
+- Python 3.10.7 installed on your system
 - Google Chrome browser installed
 - Adjust the chrome_path variable if Chrome is installed in a different location
 
 ### 🔧 How to Run
 
-- Clone or download this repository.
-- Open the project folder in your terminal or command prompt.
-- Run the script:
+1. Clone or download this repository.
 ```bash
-python filename.py
+git clone https://github.com/isiaq-ibrahim/chrome_web_automation
+cd webcam-app
 ```
-(Replace filename.py with the name of your Python file.)
+
+2. Create a virtual environment (optional but recommended)
+```
+python -m venv venv
+source venv/bin/activate  # For Linux/Mac
+venv\Scripts\activate     # For Windows
+```
+
+3. Open the project folder in your terminal or command prompt. Run the script:
+```bash
+python web_automation.py
+```
+
 - Watch as multiple tabs open automatically in Chrome!
 
 ### 📸 Usage Example
